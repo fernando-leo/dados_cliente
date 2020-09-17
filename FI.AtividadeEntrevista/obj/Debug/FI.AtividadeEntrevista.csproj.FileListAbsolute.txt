@@ -28,3 +28,15 @@ C:\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrev
 C:\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
 C:\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
 C:\FI.WebAtividadeEntrevista\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\Fernando\Source\Repos\dados_cliente\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Fernando\Source\Repos\dados_cliente\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\Users\Fernando\Source\Repos\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\Users\Fernando\Source\Repos\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Source\Repos\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\Users\Fernando\Source\Repos\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
+C:\dados_cliente\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.dll
+C:\dados_cliente\FI.AtividadeEntrevista\bin\Debug\FI.AtividadeEntrevista.pdb
+C:\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csprojAssemblyReference.cache
+C:\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.csproj.CoreCompileInputs.cache
+C:\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.dll
+C:\dados_cliente\FI.AtividadeEntrevista\obj\Debug\FI.AtividadeEntrevista.pdb
